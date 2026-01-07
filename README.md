@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Django E-commerce Website.
 
 ### Cloning the repository
@@ -90,3 +91,6 @@ python manage.py runserver
 ## Documentation
 You can check up django documentation page for any further information.
 [Django Docs](https://docs.djangoproject.com/en/4.0/)
+=======
+# django-ecommerce
+>>>>>>> 9955f910817e516371d88feb88f3fa66f73b4f26
