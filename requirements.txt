@@ -1,10 +1,9 @@
 pip>=25.3
 setuptools>=68.0
 wheel
-# Pillow line(s) as we fixed earlier, e.g.:
 Pillow>=11.0.0
 Django==5.2.4
-asgiref==3.3.0
+asgiref>=3.8.1
 django-ckeditor==6.3.2
 django-js-asset==2.0.0
 pytz==2023.3.post1
